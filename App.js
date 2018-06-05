@@ -9,18 +9,23 @@ import {
   Platform,
   StyleSheet,
   Text,
-  View
+  View,
+    StatusBar
 } from 'react-native';
-import Login from "./Componentes/Login";
+import {Navigation} from './Componentes/Rutas';
 
 
 
-
+console.disableYellowBox=['Remote debugger'];
 export default class App extends Component {
   render() {
     return (
       <View style={styles.container}>
-        <Login/>
+          <StatusBar
+              backgroundColor= "#1c313a"
+              barStyle="light-content"
+          />
+        <Navigation/>
       </View>
     );
   }
@@ -29,7 +34,6 @@ export default class App extends Component {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    justifyContent: 'center',
     backgroundColor: '#F5FCFF',
   },
   welcome: {

@@ -1,4 +1,5 @@
 import React , {Component} from 'react';
+import { NavigationActions } from 'react-navigation';
 import {View,
     Text,
     StyleSheet,
@@ -11,9 +12,69 @@ import {View,
 
 class Login extends Component {
 
-    onPressButton=()=>{
-        alert('hola')
+    constructor(props) {
+        super(props);
+        this.state = {
+            email: '',
+            password:'',
+        };
     }
+
+
+
+
+    onPressButton=(props)=>{
+        const navigateAction = NavigationActions.navigate({
+            routeName: 'Opciones',
+            params: {
+                id: '2',
+                nombre: 'cesar'
+            }
+        });
+
+        this.props.navigation.dispatch(navigateAction);
+
+
+        /*console.log(this.state);
+        fetch('http://cesarapiprueba.proyectosuniversitarios.com/public/api/login', {
+            method: 'POST',
+            headers: {
+                Accept: 'application/json',
+                'Content-Type': 'application/json',
+            },
+            body: JSON.stringify({
+                email: this.state.email,
+                password: this.state.password,
+            }),
+
+        })
+            .then((response) => response.json())
+            .then((responseJson) => {
+                console.log(responseJson);
+                if (responseJson.status=== 'true') {
+                    const navigateAction = NavigationActions.navigate({
+                        routeName: 'Opciones',
+                        params: {
+                            id: responseJson.id,
+                            nombre: responseJson.nombre
+                        }
+                    });
+
+                    this.props.navigation.dispatch(navigateAction);
+                }else{
+                    alert('email o password erroneos');
+                }
+
+
+
+            })
+            .catch((error) => {
+                console.error(error);
+            });*/
+    }
+
+
+
 
     render() {
         return (
@@ -29,12 +90,14 @@ class Login extends Component {
                         placeholder="email"
                         returnKeyType="next"
                         keyboardType="email-address"
+                        onChangeText={(email) => this.setState({email})}
                     style={styles.input}
                     />
                     <TextInput
                         placeholder="password"
                         secureTextEntry
                         returnKeyType="go"
+                        onChangeText={(password) => this.setState({password})}
                         style={styles.input}
                     />
                     <TouchableOpacity style={styles.button} onPress={this.onPressButton}>
@@ -89,6 +152,15 @@ const styles = StyleSheet.create({
         color: '#ffffff',
         textAlign: 'center'
     },
+    container1: {
+        flex: 1,
+        justifyContent: 'center'
+    },
+    horizontal: {
+        flexDirection: 'row',
+        justifyContent: 'space-around',
+        padding: 10
+    }
 });
 
 export default Login;
