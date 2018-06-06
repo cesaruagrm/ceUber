@@ -48,6 +48,10 @@
         "source": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\notification_template_part_chronometer.xml"
     },
     {
+        "merged": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item.xml",
+        "source": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\ceUber\\react-native-image-picker\\unspecified\\res\\layout\\list_item.xml"
+    },
+    {
         "merged": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
         "source": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_action_menu_item_layout.xml"
     },

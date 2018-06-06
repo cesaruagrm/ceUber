@@ -1,5 +1,6 @@
 import React , {Component} from 'react';
 import {View, Text, StyleSheet, Image, TouchableOpacity} from 'react-native';
+import ImagePicker from 'react-native-image-picker';
 
 
 class Vehiculo extends Component {
@@ -14,6 +15,7 @@ class Vehiculo extends Component {
             nombre:'',
             email:'',
             foto:'',
+            imagePath: '',
         }
         //  console.log(this.state.auto);
     }
@@ -39,7 +41,65 @@ class Vehiculo extends Component {
             });
     }
 
-    IdentificarUsuario=()=>{
+
+    abrirCamera = () => {
+        const options = {
+            title: 'select Foto',
+            storageOptions:{
+                skipBackup: true,
+                path: 'images'
+            }
+        }
+        ImagePicker.showImagePicker(options, (response) => {
+            if (response.didCancel) {
+                console.log('cancelado por el usuario')
+            } else if (response.error) {
+                console.log('error' + response.error)
+            }else if (response.customButton) {
+                console.log('user custon' + response.customButton)
+            }else {
+                this.setState({
+                    imagePath: 'data:image/jpeg;base64,'+ response.data
+                })
+                console.log(this.state.imagePath)
+
+            }
+
+        })
+
+    }
+
+    verificar = (props) => {
+        console.log(this.state);
+        fetch('http://cesarapiprueba.proyectosuniversitarios.com/public/api/compararDosImagen', {
+          method: 'POST',
+          headers: {
+            Accept: 'application/json',
+            'Content-Type': 'application/json',
+          },
+          body: JSON.stringify({
+            id_chofer: this.state.auto.id_chofer,
+            foto: this.state.imagePath,
+          }),
+
+        })
+        .then((response) => response.json())
+        .then((responseJson) => {
+            console.log(responseJson);
+           if (responseJson.status=== 'Fail') {
+             alert(responseJson.message);
+           }
+          if (responseJson.status=== 'error') {
+             alert(responseJson.message);
+           }
+           if (responseJson.status=== 'success') {
+             alert(responseJson.message);
+           }
+
+          })
+        .catch((error) => {
+              console.error(error);
+        });
 
     }
 
@@ -61,8 +121,15 @@ class Vehiculo extends Component {
                     source={{uri: 'http://cesarapiprueba.proyectosuniversitarios.com/public/img/foto/'+this.state.auto.id_chofer+'/'+this.state.foto}}
                 />
 
-                <TouchableOpacity style={styles.button} onPress={this.IdentificarUsuario}>
+                <Image  style={styles.lugar}
+                       source = {{uri: this.state.imagePath}} />
+
+                <TouchableOpacity style={styles.button} onPress={this.abrirCamera.bind(this)}>
                     <Text style={styles.buttonText}>tomar Foto para Idenfiticar</Text>
+                </TouchableOpacity>
+
+                <TouchableOpacity style={styles.button} onPress={this.verificar}>
+                    <Text style={styles.buttonText}>Verificar Foto</Text>
                 </TouchableOpacity>
 
             </View>
@@ -73,8 +140,6 @@ class Vehiculo extends Component {
 const styles = StyleSheet.create({
     container: {
         flex: 1,
-        justifyContent:'center',
-        alignItems:'center',
         backgroundColor: '#fff',
     },
     button: {
@@ -87,6 +152,12 @@ const styles = StyleSheet.create({
         fontSize: 16,
         fontWeight: '500',
         textAlign: 'center'
+    },
+    lugar: {
+        marginTop:20,
+        width:150,
+        height:75,
+
     },
 });
 

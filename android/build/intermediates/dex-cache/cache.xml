@@ -138,6 +138,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="D:\PROYECTOS\reactNative\ceUber\android\app\build\intermediates\exploded-aar\ceUber\react-native-image-picker\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ed80840d302bee1f5dd42cefa1fa8e6100100535">
+        <dex dex="D:\PROYECTOS\reactNative\ceUber\android\app\build\intermediates\pre-dexed\debug\ceUber-react-native-image-picker-unspecified_46dd564d4566a3035d9ca32cb9ad25802df30fc6.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="C:\Users\cesarFuentes\.gradle\caches\modules-2\files-2.1\com.facebook.fbui.textlayoutbuilder\staticlayout-proxy\1.0\f162442a19fff13995fbd51ba414d9ee05579080\staticlayout-proxy-1.0.jar"
         jumboMode="false"
         optimize="true"

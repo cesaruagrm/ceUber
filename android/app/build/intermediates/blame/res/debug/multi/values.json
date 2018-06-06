@@ -6665,9 +6665,30 @@
                     "startLine": 1220,
                     "startColumn": 4,
                     "startOffset": 93992,
-                    "endLine": 1223,
+                    "endLine": 1227,
+                    "endColumn": 12,
+                    "endOffset": 94398
+                },
+                "from": {
+                    "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\ceUber\\react-native-image-picker\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 9,
+                        "endColumn": 12,
+                        "endOffset": 461
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1228,
+                    "startColumn": 4,
+                    "startOffset": 94403,
+                    "endLine": 1231,
                     "endColumn": 10,
-                    "endOffset": 94189
+                    "endOffset": 94600
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.55.4\\res\\values\\values.xml",
@@ -6683,12 +6704,12 @@
             },
             {
                 "to": {
-                    "startLine": 1224,
+                    "startLine": 1232,
                     "startColumn": 4,
-                    "startOffset": 94194,
-                    "endLine": 1227,
+                    "startOffset": 94605,
+                    "endLine": 1235,
                     "endColumn": 10,
-                    "endOffset": 94395
+                    "endOffset": 94806
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.55.4\\res\\values\\values.xml",
@@ -6704,12 +6725,12 @@
             },
             {
                 "to": {
-                    "startLine": 1228,
+                    "startLine": 1236,
                     "startColumn": 4,
-                    "startOffset": 94400,
-                    "endLine": 1265,
+                    "startOffset": 94811,
+                    "endLine": 1273,
                     "endColumn": 12,
-                    "endOffset": 97257
+                    "endOffset": 97668
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -6725,12 +6746,12 @@
             },
             {
                 "to": {
-                    "startLine": 1266,
+                    "startLine": 1274,
                     "startColumn": 4,
-                    "startOffset": 97262,
-                    "endLine": 1304,
+                    "startOffset": 97673,
+                    "endLine": 1312,
                     "endColumn": 12,
-                    "endOffset": 100259
+                    "endOffset": 100670
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -6746,11 +6767,11 @@
             },
             {
                 "to": {
-                    "startLine": 1305,
+                    "startLine": 1313,
                     "startColumn": 4,
-                    "startOffset": 100264,
+                    "startOffset": 100675,
                     "endColumn": 61,
-                    "endOffset": 100321
+                    "endOffset": 100732
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -6765,12 +6786,12 @@
             },
             {
                 "to": {
-                    "startLine": 1306,
+                    "startLine": 1314,
                     "startColumn": 4,
-                    "startOffset": 100326,
-                    "endLine": 1315,
+                    "startOffset": 100737,
+                    "endLine": 1323,
                     "endColumn": 12,
-                    "endOffset": 100951
+                    "endOffset": 101362
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -6786,12 +6807,12 @@
             },
             {
                 "to": {
-                    "startLine": 1316,
+                    "startLine": 1324,
                     "startColumn": 4,
-                    "startOffset": 100956,
-                    "endLine": 1324,
+                    "startOffset": 101367,
+                    "endLine": 1332,
                     "endColumn": 12,
-                    "endOffset": 101565
+                    "endOffset": 101976
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -6807,11 +6828,11 @@
             },
             {
                 "to": {
-                    "startLine": 1325,
+                    "startLine": 1333,
                     "startColumn": 4,
-                    "startOffset": 101570,
+                    "startOffset": 101981,
                     "endColumn": 85,
-                    "endOffset": 101651
+                    "endOffset": 102062
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -6826,12 +6847,12 @@
             },
             {
                 "to": {
-                    "startLine": 1326,
+                    "startLine": 1334,
                     "startColumn": 4,
-                    "startOffset": 101656,
-                    "endLine": 1327,
+                    "startOffset": 102067,
+                    "endLine": 1335,
                     "endColumn": 12,
-                    "endOffset": 101764
+                    "endOffset": 102175
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -6847,12 +6868,12 @@
             },
             {
                 "to": {
-                    "startLine": 1328,
+                    "startLine": 1336,
                     "startColumn": 4,
-                    "startOffset": 101769,
-                    "endLine": 1331,
+                    "startOffset": 102180,
+                    "endLine": 1339,
                     "endColumn": 12,
-                    "endOffset": 101993
+                    "endOffset": 102404
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -6868,12 +6889,12 @@
             },
             {
                 "to": {
-                    "startLine": 1332,
+                    "startLine": 1340,
                     "startColumn": 4,
-                    "startOffset": 101998,
-                    "endLine": 1335,
+                    "startOffset": 102409,
+                    "endLine": 1343,
                     "endColumn": 12,
-                    "endOffset": 102331
+                    "endOffset": 102742
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -6889,12 +6910,12 @@
             },
             {
                 "to": {
-                    "startLine": 1336,
+                    "startLine": 1344,
                     "startColumn": 4,
-                    "startOffset": 102336,
-                    "endLine": 1338,
+                    "startOffset": 102747,
+                    "endLine": 1346,
                     "endColumn": 12,
-                    "endOffset": 102491
+                    "endOffset": 102902
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -6910,12 +6931,12 @@
             },
             {
                 "to": {
-                    "startLine": 1339,
+                    "startLine": 1347,
                     "startColumn": 4,
-                    "startOffset": 102496,
-                    "endLine": 1341,
+                    "startOffset": 102907,
+                    "endLine": 1349,
                     "endColumn": 12,
-                    "endOffset": 102643
+                    "endOffset": 103054
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -6931,12 +6952,12 @@
             },
             {
                 "to": {
-                    "startLine": 1342,
+                    "startLine": 1350,
                     "startColumn": 4,
-                    "startOffset": 102648,
-                    "endLine": 1344,
+                    "startOffset": 103059,
+                    "endLine": 1352,
                     "endColumn": 12,
-                    "endOffset": 102814
+                    "endOffset": 103225
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -6952,12 +6973,12 @@
             },
             {
                 "to": {
-                    "startLine": 1345,
+                    "startLine": 1353,
                     "startColumn": 4,
-                    "startOffset": 102819,
-                    "endLine": 1347,
+                    "startOffset": 103230,
+                    "endLine": 1355,
                     "endColumn": 12,
-                    "endOffset": 102981
+                    "endOffset": 103392
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -6973,12 +6994,12 @@
             },
             {
                 "to": {
-                    "startLine": 1348,
+                    "startLine": 1356,
                     "startColumn": 4,
-                    "startOffset": 102986,
-                    "endLine": 1351,
+                    "startOffset": 103397,
+                    "endLine": 1359,
                     "endColumn": 12,
-                    "endOffset": 103224
+                    "endOffset": 103635
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -6994,12 +7015,12 @@
             },
             {
                 "to": {
-                    "startLine": 1352,
+                    "startLine": 1360,
                     "startColumn": 4,
-                    "startOffset": 103229,
-                    "endLine": 1354,
+                    "startOffset": 103640,
+                    "endLine": 1362,
                     "endColumn": 12,
-                    "endOffset": 103394
+                    "endOffset": 103805
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -7015,12 +7036,12 @@
             },
             {
                 "to": {
-                    "startLine": 1355,
+                    "startLine": 1363,
                     "startColumn": 4,
-                    "startOffset": 103399,
-                    "endLine": 1357,
+                    "startOffset": 103810,
+                    "endLine": 1365,
                     "endColumn": 12,
-                    "endOffset": 103567
+                    "endOffset": 103978
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -7036,12 +7057,12 @@
             },
             {
                 "to": {
-                    "startLine": 1358,
+                    "startLine": 1366,
                     "startColumn": 4,
-                    "startOffset": 103572,
-                    "endLine": 1360,
+                    "startOffset": 103983,
+                    "endLine": 1368,
                     "endColumn": 12,
-                    "endOffset": 103738
+                    "endOffset": 104149
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -7057,12 +7078,12 @@
             },
             {
                 "to": {
-                    "startLine": 1361,
+                    "startLine": 1369,
                     "startColumn": 4,
-                    "startOffset": 103743,
-                    "endLine": 1364,
+                    "startOffset": 104154,
+                    "endLine": 1372,
                     "endColumn": 12,
-                    "endOffset": 104012
+                    "endOffset": 104423
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -7078,12 +7099,12 @@
             },
             {
                 "to": {
-                    "startLine": 1365,
+                    "startLine": 1373,
                     "startColumn": 4,
-                    "startOffset": 104017,
-                    "endLine": 1367,
+                    "startOffset": 104428,
+                    "endLine": 1375,
                     "endColumn": 12,
-                    "endOffset": 104211
+                    "endOffset": 104622
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -7099,12 +7120,12 @@
             },
             {
                 "to": {
-                    "startLine": 1368,
+                    "startLine": 1376,
                     "startColumn": 4,
-                    "startOffset": 104216,
-                    "endLine": 1370,
+                    "startOffset": 104627,
+                    "endLine": 1378,
                     "endColumn": 12,
-                    "endOffset": 104412
+                    "endOffset": 104823
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.55.4\\res\\values\\values.xml",
@@ -7120,12 +7141,12 @@
             },
             {
                 "to": {
-                    "startLine": 1371,
+                    "startLine": 1379,
                     "startColumn": 4,
-                    "startOffset": 104417,
-                    "endLine": 1373,
+                    "startOffset": 104828,
+                    "endLine": 1381,
                     "endColumn": 12,
-                    "endOffset": 104601
+                    "endOffset": 105012
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.55.4\\res\\values\\values.xml",
@@ -7141,12 +7162,12 @@
             },
             {
                 "to": {
-                    "startLine": 1374,
+                    "startLine": 1382,
                     "startColumn": 4,
-                    "startOffset": 104606,
-                    "endLine": 1376,
+                    "startOffset": 105017,
+                    "endLine": 1384,
                     "endColumn": 12,
-                    "endOffset": 104800
+                    "endOffset": 105211
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.55.4\\res\\values\\values.xml",
@@ -7162,12 +7183,12 @@
             },
             {
                 "to": {
-                    "startLine": 1377,
+                    "startLine": 1385,
                     "startColumn": 4,
-                    "startOffset": 104805,
-                    "endLine": 1379,
+                    "startOffset": 105216,
+                    "endLine": 1387,
                     "endColumn": 12,
-                    "endOffset": 104987
+                    "endOffset": 105398
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.55.4\\res\\values\\values.xml",
@@ -7183,11 +7204,11 @@
             },
             {
                 "to": {
-                    "startLine": 1380,
+                    "startLine": 1388,
                     "startColumn": 4,
-                    "startOffset": 104992,
+                    "startOffset": 105403,
                     "endColumn": 83,
-                    "endOffset": 105071
+                    "endOffset": 105482
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -7202,11 +7223,11 @@
             },
             {
                 "to": {
-                    "startLine": 1381,
+                    "startLine": 1389,
                     "startColumn": 4,
-                    "startOffset": 105076,
+                    "startOffset": 105487,
                     "endColumn": 95,
-                    "endOffset": 105167
+                    "endOffset": 105578
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -7221,11 +7242,11 @@
             },
             {
                 "to": {
-                    "startLine": 1382,
+                    "startLine": 1390,
                     "startColumn": 4,
-                    "startOffset": 105172,
+                    "startOffset": 105583,
                     "endColumn": 95,
-                    "endOffset": 105263
+                    "endOffset": 105674
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -7240,11 +7261,11 @@
             },
             {
                 "to": {
-                    "startLine": 1383,
+                    "startLine": 1391,
                     "startColumn": 4,
-                    "startOffset": 105268,
+                    "startOffset": 105679,
                     "endColumn": 97,
-                    "endOffset": 105361
+                    "endOffset": 105772
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -7259,11 +7280,11 @@
             },
             {
                 "to": {
-                    "startLine": 1384,
+                    "startLine": 1392,
                     "startColumn": 4,
-                    "startOffset": 105366,
+                    "startOffset": 105777,
                     "endColumn": 99,
-                    "endOffset": 105461
+                    "endOffset": 105872
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -7278,11 +7299,11 @@
             },
             {
                 "to": {
-                    "startLine": 1385,
+                    "startLine": 1393,
                     "startColumn": 4,
-                    "startOffset": 105466,
+                    "startOffset": 105877,
                     "endColumn": 101,
-                    "endOffset": 105563
+                    "endOffset": 105974
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -7297,11 +7318,11 @@
             },
             {
                 "to": {
-                    "startLine": 1386,
+                    "startLine": 1394,
                     "startColumn": 4,
-                    "startOffset": 105568,
+                    "startOffset": 105979,
                     "endColumn": 101,
-                    "endOffset": 105665
+                    "endOffset": 106076
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -7316,11 +7337,11 @@
             },
             {
                 "to": {
-                    "startLine": 1387,
+                    "startLine": 1395,
                     "startColumn": 4,
-                    "startOffset": 105670,
+                    "startOffset": 106081,
                     "endColumn": 101,
-                    "endOffset": 105767
+                    "endOffset": 106178
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -7335,11 +7356,11 @@
             },
             {
                 "to": {
-                    "startLine": 1388,
+                    "startLine": 1396,
                     "startColumn": 4,
-                    "startOffset": 105772,
+                    "startOffset": 106183,
                     "endColumn": 101,
-                    "endOffset": 105869
+                    "endOffset": 106280
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -7354,11 +7375,11 @@
             },
             {
                 "to": {
-                    "startLine": 1389,
+                    "startLine": 1397,
                     "startColumn": 4,
-                    "startOffset": 105874,
+                    "startOffset": 106285,
                     "endColumn": 101,
-                    "endOffset": 105971
+                    "endOffset": 106382
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -7373,11 +7394,11 @@
             },
             {
                 "to": {
-                    "startLine": 1390,
+                    "startLine": 1398,
                     "startColumn": 4,
-                    "startOffset": 105976,
+                    "startOffset": 106387,
                     "endColumn": 99,
-                    "endOffset": 106071
+                    "endOffset": 106482
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -7392,11 +7413,11 @@
             },
             {
                 "to": {
-                    "startLine": 1391,
+                    "startLine": 1399,
                     "startColumn": 4,
-                    "startOffset": 106076,
+                    "startOffset": 106487,
                     "endColumn": 95,
-                    "endOffset": 106167
+                    "endOffset": 106578
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -7411,11 +7432,11 @@
             },
             {
                 "to": {
-                    "startLine": 1392,
+                    "startLine": 1400,
                     "startColumn": 4,
-                    "startOffset": 106172,
+                    "startOffset": 106583,
                     "endColumn": 111,
-                    "endOffset": 106279
+                    "endOffset": 106690
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -7430,11 +7451,11 @@
             },
             {
                 "to": {
-                    "startLine": 1393,
+                    "startLine": 1401,
                     "startColumn": 4,
-                    "startOffset": 106284,
+                    "startOffset": 106695,
                     "endColumn": 128,
-                    "endOffset": 106408
+                    "endOffset": 106819
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -7449,11 +7470,11 @@
             },
             {
                 "to": {
-                    "startLine": 1394,
+                    "startLine": 1402,
                     "startColumn": 4,
-                    "startOffset": 106413,
+                    "startOffset": 106824,
                     "endColumn": 122,
-                    "endOffset": 106531
+                    "endOffset": 106942
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -7468,12 +7489,12 @@
             },
             {
                 "to": {
-                    "startLine": 1395,
+                    "startLine": 1403,
                     "startColumn": 4,
-                    "startOffset": 106536,
-                    "endLine": 1396,
+                    "startOffset": 106947,
+                    "endLine": 1404,
                     "endColumn": 12,
-                    "endOffset": 106685
+                    "endOffset": 107096
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -7489,12 +7510,12 @@
             },
             {
                 "to": {
-                    "startLine": 1397,
+                    "startLine": 1405,
                     "startColumn": 4,
-                    "startOffset": 106690,
-                    "endLine": 1398,
+                    "startOffset": 107101,
+                    "endLine": 1406,
                     "endColumn": 12,
-                    "endOffset": 106839
+                    "endOffset": 107250
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -7510,11 +7531,11 @@
             },
             {
                 "to": {
-                    "startLine": 1399,
+                    "startLine": 1407,
                     "startColumn": 4,
-                    "startOffset": 106844,
+                    "startOffset": 107255,
                     "endColumn": 97,
-                    "endOffset": 106937
+                    "endOffset": 107348
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -7529,11 +7550,11 @@
             },
             {
                 "to": {
-                    "startLine": 1400,
+                    "startLine": 1408,
                     "startColumn": 4,
-                    "startOffset": 106942,
+                    "startOffset": 107353,
                     "endColumn": 113,
-                    "endOffset": 107051
+                    "endOffset": 107462
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -7548,11 +7569,11 @@
             },
             {
                 "to": {
-                    "startLine": 1401,
+                    "startLine": 1409,
                     "startColumn": 4,
-                    "startOffset": 107056,
+                    "startOffset": 107467,
                     "endColumn": 93,
-                    "endOffset": 107145
+                    "endOffset": 107556
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -7567,12 +7588,12 @@
             },
             {
                 "to": {
-                    "startLine": 1402,
+                    "startLine": 1410,
                     "startColumn": 4,
-                    "startOffset": 107150,
-                    "endLine": 1403,
+                    "startOffset": 107561,
+                    "endLine": 1411,
                     "endColumn": 12,
-                    "endOffset": 107285
+                    "endOffset": 107696
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -7588,12 +7609,12 @@
             },
             {
                 "to": {
-                    "startLine": 1404,
+                    "startLine": 1412,
                     "startColumn": 4,
-                    "startOffset": 107290,
-                    "endLine": 1405,
+                    "startOffset": 107701,
+                    "endLine": 1413,
                     "endColumn": 12,
-                    "endOffset": 107419
+                    "endOffset": 107830
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -7609,11 +7630,11 @@
             },
             {
                 "to": {
-                    "startLine": 1406,
+                    "startLine": 1414,
                     "startColumn": 4,
-                    "startOffset": 107424,
+                    "startOffset": 107835,
                     "endColumn": 95,
-                    "endOffset": 107515
+                    "endOffset": 107926
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -7628,11 +7649,11 @@
             },
             {
                 "to": {
-                    "startLine": 1407,
+                    "startLine": 1415,
                     "startColumn": 4,
-                    "startOffset": 107520,
+                    "startOffset": 107931,
                     "endColumn": 111,
-                    "endOffset": 107627
+                    "endOffset": 108038
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -7647,11 +7668,11 @@
             },
             {
                 "to": {
-                    "startLine": 1408,
+                    "startLine": 1416,
                     "startColumn": 4,
-                    "startOffset": 107632,
+                    "startOffset": 108043,
                     "endColumn": 99,
-                    "endOffset": 107727
+                    "endOffset": 108138
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -7666,11 +7687,11 @@
             },
             {
                 "to": {
-                    "startLine": 1409,
+                    "startLine": 1417,
                     "startColumn": 4,
-                    "startOffset": 107732,
+                    "startOffset": 108143,
                     "endColumn": 115,
-                    "endOffset": 107843
+                    "endOffset": 108254
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -7685,11 +7706,11 @@
             },
             {
                 "to": {
-                    "startLine": 1410,
+                    "startLine": 1418,
                     "startColumn": 4,
-                    "startOffset": 107848,
+                    "startOffset": 108259,
                     "endColumn": 95,
-                    "endOffset": 107939
+                    "endOffset": 108350
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -7704,11 +7725,11 @@
             },
             {
                 "to": {
-                    "startLine": 1411,
+                    "startLine": 1419,
                     "startColumn": 4,
-                    "startOffset": 107944,
+                    "startOffset": 108355,
                     "endColumn": 111,
-                    "endOffset": 108051
+                    "endOffset": 108462
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -7723,12 +7744,12 @@
             },
             {
                 "to": {
-                    "startLine": 1412,
+                    "startLine": 1420,
                     "startColumn": 4,
-                    "startOffset": 108056,
-                    "endLine": 1413,
+                    "startOffset": 108467,
+                    "endLine": 1421,
                     "endColumn": 12,
-                    "endOffset": 108191
+                    "endOffset": 108602
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -7744,11 +7765,11 @@
             },
             {
                 "to": {
-                    "startLine": 1414,
+                    "startLine": 1422,
                     "startColumn": 4,
-                    "startOffset": 108196,
+                    "startOffset": 108607,
                     "endColumn": 135,
-                    "endOffset": 108327
+                    "endOffset": 108738
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -7763,12 +7784,12 @@
             },
             {
                 "to": {
-                    "startLine": 1415,
+                    "startLine": 1423,
                     "startColumn": 4,
-                    "startOffset": 108332,
-                    "endLine": 1416,
+                    "startOffset": 108743,
+                    "endLine": 1424,
                     "endColumn": 12,
-                    "endOffset": 108491
+                    "endOffset": 108902
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -7784,11 +7805,11 @@
             },
             {
                 "to": {
-                    "startLine": 1417,
+                    "startLine": 1425,
                     "startColumn": 4,
-                    "startOffset": 108496,
+                    "startOffset": 108907,
                     "endColumn": 129,
-                    "endOffset": 108621
+                    "endOffset": 109032
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -7803,12 +7824,12 @@
             },
             {
                 "to": {
-                    "startLine": 1418,
+                    "startLine": 1426,
                     "startColumn": 4,
-                    "startOffset": 108626,
-                    "endLine": 1419,
+                    "startOffset": 109037,
+                    "endLine": 1427,
                     "endColumn": 12,
-                    "endOffset": 108779
+                    "endOffset": 109190
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -7824,12 +7845,12 @@
             },
             {
                 "to": {
-                    "startLine": 1420,
+                    "startLine": 1428,
                     "startColumn": 4,
-                    "startOffset": 108784,
-                    "endLine": 1421,
+                    "startOffset": 109195,
+                    "endLine": 1429,
                     "endColumn": 12,
-                    "endOffset": 108929
+                    "endOffset": 109340
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -7845,11 +7866,11 @@
             },
             {
                 "to": {
-                    "startLine": 1422,
+                    "startLine": 1430,
                     "startColumn": 4,
-                    "startOffset": 108934,
+                    "startOffset": 109345,
                     "endColumn": 140,
-                    "endOffset": 109070
+                    "endOffset": 109481
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -7864,12 +7885,12 @@
             },
             {
                 "to": {
-                    "startLine": 1423,
+                    "startLine": 1431,
                     "startColumn": 4,
-                    "startOffset": 109075,
-                    "endLine": 1424,
+                    "startOffset": 109486,
+                    "endLine": 1432,
                     "endColumn": 12,
-                    "endOffset": 109214
+                    "endOffset": 109625
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -7885,11 +7906,11 @@
             },
             {
                 "to": {
-                    "startLine": 1425,
+                    "startLine": 1433,
                     "startColumn": 4,
-                    "startOffset": 109219,
+                    "startOffset": 109630,
                     "endColumn": 134,
-                    "endOffset": 109349
+                    "endOffset": 109760
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -7904,11 +7925,11 @@
             },
             {
                 "to": {
-                    "startLine": 1426,
+                    "startLine": 1434,
                     "startColumn": 4,
-                    "startOffset": 109354,
+                    "startOffset": 109765,
                     "endColumn": 111,
-                    "endOffset": 109461
+                    "endOffset": 109872
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -7923,11 +7944,11 @@
             },
             {
                 "to": {
-                    "startLine": 1427,
+                    "startLine": 1435,
                     "startColumn": 4,
-                    "startOffset": 109466,
+                    "startOffset": 109877,
                     "endColumn": 127,
-                    "endOffset": 109589
+                    "endOffset": 110000
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -7942,12 +7963,12 @@
             },
             {
                 "to": {
-                    "startLine": 1428,
+                    "startLine": 1436,
                     "startColumn": 4,
-                    "startOffset": 109594,
-                    "endLine": 1429,
+                    "startOffset": 110005,
+                    "endLine": 1437,
                     "endColumn": 12,
-                    "endOffset": 109725
+                    "endOffset": 110136
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -7963,12 +7984,12 @@
             },
             {
                 "to": {
-                    "startLine": 1430,
+                    "startLine": 1438,
                     "startColumn": 4,
-                    "startOffset": 109730,
-                    "endLine": 1431,
+                    "startOffset": 110141,
+                    "endLine": 1439,
                     "endColumn": 12,
-                    "endOffset": 109867
+                    "endOffset": 110278
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -7984,12 +8005,12 @@
             },
             {
                 "to": {
-                    "startLine": 1432,
+                    "startLine": 1440,
                     "startColumn": 4,
-                    "startOffset": 109872,
-                    "endLine": 1433,
+                    "startOffset": 110283,
+                    "endLine": 1441,
                     "endColumn": 12,
-                    "endOffset": 110009
+                    "endOffset": 110420
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -8005,11 +8026,11 @@
             },
             {
                 "to": {
-                    "startLine": 1434,
+                    "startLine": 1442,
                     "startColumn": 4,
-                    "startOffset": 110014,
+                    "startOffset": 110425,
                     "endColumn": 111,
-                    "endOffset": 110121
+                    "endOffset": 110532
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -8024,11 +8045,11 @@
             },
             {
                 "to": {
-                    "startLine": 1435,
+                    "startLine": 1443,
                     "startColumn": 4,
-                    "startOffset": 110126,
+                    "startOffset": 110537,
                     "endColumn": 139,
-                    "endOffset": 110261
+                    "endOffset": 110672
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -8043,11 +8064,11 @@
             },
             {
                 "to": {
-                    "startLine": 1436,
+                    "startLine": 1444,
                     "startColumn": 4,
-                    "startOffset": 110266,
+                    "startOffset": 110677,
                     "endColumn": 67,
-                    "endOffset": 110329
+                    "endOffset": 110740
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -8062,11 +8083,11 @@
             },
             {
                 "to": {
-                    "startLine": 1437,
+                    "startLine": 1445,
                     "startColumn": 4,
-                    "startOffset": 110334,
+                    "startOffset": 110745,
                     "endColumn": 72,
-                    "endOffset": 110402
+                    "endOffset": 110813
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -8081,11 +8102,11 @@
             },
             {
                 "to": {
-                    "startLine": 1438,
+                    "startLine": 1446,
                     "startColumn": 4,
-                    "startOffset": 110407,
+                    "startOffset": 110818,
                     "endColumn": 73,
-                    "endOffset": 110476
+                    "endOffset": 110887
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -8100,11 +8121,11 @@
             },
             {
                 "to": {
-                    "startLine": 1439,
+                    "startLine": 1447,
                     "startColumn": 4,
-                    "startOffset": 110481,
+                    "startOffset": 110892,
                     "endColumn": 72,
-                    "endOffset": 110549
+                    "endOffset": 110960
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -8119,11 +8140,11 @@
             },
             {
                 "to": {
-                    "startLine": 1440,
+                    "startLine": 1448,
                     "startColumn": 4,
-                    "startOffset": 110554,
+                    "startOffset": 110965,
                     "endColumn": 73,
-                    "endOffset": 110623
+                    "endOffset": 111034
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -8138,12 +8159,12 @@
             },
             {
                 "to": {
-                    "startLine": 1441,
+                    "startLine": 1449,
                     "startColumn": 4,
-                    "startOffset": 110628,
-                    "endLine": 1442,
+                    "startOffset": 111039,
+                    "endLine": 1450,
                     "endColumn": 12,
-                    "endOffset": 110769
+                    "endOffset": 111180
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -8159,12 +8180,12 @@
             },
             {
                 "to": {
-                    "startLine": 1443,
+                    "startLine": 1451,
                     "startColumn": 4,
-                    "startOffset": 110774,
-                    "endLine": 1444,
+                    "startOffset": 111185,
+                    "endLine": 1452,
                     "endColumn": 12,
-                    "endOffset": 110913
+                    "endOffset": 111324
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -8180,12 +8201,12 @@
             },
             {
                 "to": {
-                    "startLine": 1445,
+                    "startLine": 1453,
                     "startColumn": 4,
-                    "startOffset": 110918,
-                    "endLine": 1446,
+                    "startOffset": 111329,
+                    "endLine": 1454,
                     "endColumn": 12,
-                    "endOffset": 111051
+                    "endOffset": 111462
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -8201,11 +8222,11 @@
             },
             {
                 "to": {
-                    "startLine": 1447,
+                    "startLine": 1455,
                     "startColumn": 4,
-                    "startOffset": 111056,
+                    "startOffset": 111467,
                     "endColumn": 25,
-                    "endOffset": 111077
+                    "endOffset": 111488
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.55.4\\res\\values\\values.xml",
@@ -8220,11 +8241,11 @@
             },
             {
                 "to": {
-                    "startLine": 1448,
+                    "startLine": 1456,
                     "startColumn": 4,
-                    "startOffset": 111082,
+                    "startOffset": 111493,
                     "endColumn": 65,
-                    "endOffset": 111143
+                    "endOffset": 111554
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -8239,11 +8260,11 @@
             },
             {
                 "to": {
-                    "startLine": 1449,
+                    "startLine": 1457,
                     "startColumn": 4,
-                    "startOffset": 111148,
+                    "startOffset": 111559,
                     "endColumn": 89,
-                    "endOffset": 111233
+                    "endOffset": 111644
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -8258,11 +8279,11 @@
             },
             {
                 "to": {
-                    "startLine": 1450,
+                    "startLine": 1458,
                     "startColumn": 4,
-                    "startOffset": 111238,
+                    "startOffset": 111649,
                     "endColumn": 79,
-                    "endOffset": 111313
+                    "endOffset": 111724
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -8277,11 +8298,11 @@
             },
             {
                 "to": {
-                    "startLine": 1451,
+                    "startLine": 1459,
                     "startColumn": 4,
-                    "startOffset": 111318,
+                    "startOffset": 111729,
                     "endColumn": 91,
-                    "endOffset": 111405
+                    "endOffset": 111816
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -8296,11 +8317,11 @@
             },
             {
                 "to": {
-                    "startLine": 1452,
+                    "startLine": 1460,
                     "startColumn": 4,
-                    "startOffset": 111410,
+                    "startOffset": 111821,
                     "endColumn": 97,
-                    "endOffset": 111503
+                    "endOffset": 111914
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -8315,12 +8336,12 @@
             },
             {
                 "to": {
-                    "startLine": 1453,
+                    "startLine": 1461,
                     "startColumn": 4,
-                    "startOffset": 111508,
-                    "endLine": 1454,
+                    "startOffset": 111919,
+                    "endLine": 1462,
                     "endColumn": 12,
-                    "endOffset": 111613
+                    "endOffset": 112024
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -8336,11 +8357,11 @@
             },
             {
                 "to": {
-                    "startLine": 1455,
+                    "startLine": 1463,
                     "startColumn": 4,
-                    "startOffset": 111618,
+                    "startOffset": 112029,
                     "endColumn": 77,
-                    "endOffset": 111691
+                    "endOffset": 112102
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -8355,11 +8376,11 @@
             },
             {
                 "to": {
-                    "startLine": 1456,
+                    "startLine": 1464,
                     "startColumn": 4,
-                    "startOffset": 111696,
+                    "startOffset": 112107,
                     "endColumn": 105,
-                    "endOffset": 111797
+                    "endOffset": 112208
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -8374,11 +8395,11 @@
             },
             {
                 "to": {
-                    "startLine": 1457,
+                    "startLine": 1465,
                     "startColumn": 4,
-                    "startOffset": 111802,
+                    "startOffset": 112213,
                     "endColumn": 91,
-                    "endOffset": 111889
+                    "endOffset": 112300
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -8393,11 +8414,11 @@
             },
             {
                 "to": {
-                    "startLine": 1458,
+                    "startLine": 1466,
                     "startColumn": 4,
-                    "startOffset": 111894,
+                    "startOffset": 112305,
                     "endColumn": 103,
-                    "endOffset": 111993
+                    "endOffset": 112404
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -8412,11 +8433,11 @@
             },
             {
                 "to": {
-                    "startLine": 1459,
+                    "startLine": 1467,
                     "startColumn": 4,
-                    "startOffset": 111998,
+                    "startOffset": 112409,
                     "endColumn": 109,
-                    "endOffset": 112103
+                    "endOffset": 112514
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -8431,12 +8452,12 @@
             },
             {
                 "to": {
-                    "startLine": 1460,
+                    "startLine": 1468,
                     "startColumn": 4,
-                    "startOffset": 112108,
-                    "endLine": 1461,
+                    "startOffset": 112519,
+                    "endLine": 1469,
                     "endColumn": 12,
-                    "endOffset": 112225
+                    "endOffset": 112636
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -8452,12 +8473,12 @@
             },
             {
                 "to": {
-                    "startLine": 1462,
+                    "startLine": 1470,
                     "startColumn": 4,
-                    "startOffset": 112230,
-                    "endLine": 1465,
+                    "startOffset": 112641,
+                    "endLine": 1473,
                     "endColumn": 12,
-                    "endOffset": 112388
+                    "endOffset": 112799
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -8473,12 +8494,12 @@
             },
             {
                 "to": {
-                    "startLine": 1466,
+                    "startLine": 1474,
                     "startColumn": 4,
-                    "startOffset": 112393,
-                    "endLine": 1469,
+                    "startOffset": 112804,
+                    "endLine": 1477,
                     "endColumn": 12,
-                    "endOffset": 112545
+                    "endOffset": 112956
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -8494,11 +8515,11 @@
             },
             {
                 "to": {
-                    "startLine": 1470,
+                    "startLine": 1478,
                     "startColumn": 4,
-                    "startOffset": 112550,
+                    "startOffset": 112961,
                     "endColumn": 34,
-                    "endOffset": 112580
+                    "endOffset": 112991
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.55.4\\res\\values\\values.xml",
@@ -8513,12 +8534,12 @@
             },
             {
                 "to": {
-                    "startLine": 1471,
+                    "startLine": 1479,
                     "startColumn": 4,
-                    "startOffset": 112585,
-                    "endLine": 1477,
+                    "startOffset": 112996,
+                    "endLine": 1485,
                     "endColumn": 10,
-                    "endOffset": 112998
+                    "endOffset": 113409
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.55.4\\res\\values\\values.xml",
@@ -8534,12 +8555,12 @@
             },
             {
                 "to": {
-                    "startLine": 1478,
+                    "startLine": 1486,
                     "startColumn": 4,
-                    "startOffset": 113003,
-                    "endLine": 1484,
+                    "startOffset": 113414,
+                    "endLine": 1492,
                     "endColumn": 10,
-                    "endOffset": 113376
+                    "endOffset": 113787
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.55.4\\res\\values\\values.xml",
@@ -8555,12 +8576,12 @@
             },
             {
                 "to": {
-                    "startLine": 1485,
+                    "startLine": 1493,
                     "startColumn": 4,
-                    "startOffset": 113381,
-                    "endLine": 1487,
+                    "startOffset": 113792,
+                    "endLine": 1495,
                     "endColumn": 10,
-                    "endOffset": 113553
+                    "endOffset": 113964
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.55.4\\res\\values\\values.xml",
@@ -8576,12 +8597,12 @@
             },
             {
                 "to": {
-                    "startLine": 1488,
+                    "startLine": 1496,
                     "startColumn": 4,
-                    "startOffset": 113558,
-                    "endLine": 1490,
+                    "startOffset": 113969,
+                    "endLine": 1498,
                     "endColumn": 10,
-                    "endOffset": 113732
+                    "endOffset": 114143
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.55.4\\res\\values\\values.xml",
@@ -8597,12 +8618,12 @@
             },
             {
                 "to": {
-                    "startLine": 1491,
+                    "startLine": 1499,
                     "startColumn": 4,
-                    "startOffset": 113737,
-                    "endLine": 1493,
+                    "startOffset": 114148,
+                    "endLine": 1501,
                     "endColumn": 12,
-                    "endOffset": 113915
+                    "endOffset": 114326
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.55.4\\res\\values\\values.xml",
@@ -8618,12 +8639,12 @@
             },
             {
                 "to": {
-                    "startLine": 1494,
+                    "startLine": 1502,
                     "startColumn": 4,
-                    "startOffset": 113920,
-                    "endLine": 1499,
+                    "startOffset": 114331,
+                    "endLine": 1507,
                     "endColumn": 12,
-                    "endOffset": 114280
+                    "endOffset": 114691
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.55.4\\res\\values\\values.xml",
@@ -8639,11 +8660,11 @@
             },
             {
                 "to": {
-                    "startLine": 1500,
+                    "startLine": 1508,
                     "startColumn": 4,
-                    "startOffset": 114285,
+                    "startOffset": 114696,
                     "endColumn": 79,
-                    "endOffset": 114360
+                    "endOffset": 114771
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -8658,11 +8679,11 @@
             },
             {
                 "to": {
-                    "startLine": 1501,
+                    "startLine": 1509,
                     "startColumn": 4,
-                    "startOffset": 114365,
+                    "startOffset": 114776,
                     "endColumn": 99,
-                    "endOffset": 114460
+                    "endOffset": 114871
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -8677,11 +8698,11 @@
             },
             {
                 "to": {
-                    "startLine": 1502,
+                    "startLine": 1510,
                     "startColumn": 4,
-                    "startOffset": 114465,
+                    "startOffset": 114876,
                     "endColumn": 89,
-                    "endOffset": 114550
+                    "endOffset": 114961
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -8696,11 +8717,11 @@
             },
             {
                 "to": {
-                    "startLine": 1503,
+                    "startLine": 1511,
                     "startColumn": 4,
-                    "startOffset": 114555,
+                    "startOffset": 114966,
                     "endColumn": 109,
-                    "endOffset": 114660
+                    "endOffset": 115071
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -8715,11 +8736,11 @@
             },
             {
                 "to": {
-                    "startLine": 1504,
+                    "startLine": 1512,
                     "startColumn": 4,
-                    "startOffset": 114665,
+                    "startOffset": 115076,
                     "endColumn": 91,
-                    "endOffset": 114752
+                    "endOffset": 115163
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -8734,12 +8755,12 @@
             },
             {
                 "to": {
-                    "startLine": 1505,
+                    "startLine": 1513,
                     "startColumn": 4,
-                    "startOffset": 114757,
-                    "endLine": 1506,
+                    "startOffset": 115168,
+                    "endLine": 1514,
                     "endColumn": 12,
-                    "endOffset": 114852
+                    "endOffset": 115263
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -8755,12 +8776,12 @@
             },
             {
                 "to": {
-                    "startLine": 1507,
+                    "startLine": 1515,
                     "startColumn": 4,
-                    "startOffset": 114857,
-                    "endLine": 1508,
+                    "startOffset": 115268,
+                    "endLine": 1516,
                     "endColumn": 12,
-                    "endOffset": 114964
+                    "endOffset": 115375
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -8776,12 +8797,12 @@
             },
             {
                 "to": {
-                    "startLine": 1509,
+                    "startLine": 1517,
                     "startColumn": 4,
-                    "startOffset": 114969,
-                    "endLine": 1510,
+                    "startOffset": 115380,
+                    "endLine": 1518,
                     "endColumn": 12,
-                    "endOffset": 115078
+                    "endOffset": 115489
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -8797,12 +8818,12 @@
             },
             {
                 "to": {
-                    "startLine": 1511,
+                    "startLine": 1519,
                     "startColumn": 4,
-                    "startOffset": 115083,
-                    "endLine": 1512,
+                    "startOffset": 115494,
+                    "endLine": 1520,
                     "endColumn": 12,
-                    "endOffset": 115194
+                    "endOffset": 115605
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -8818,12 +8839,12 @@
             },
             {
                 "to": {
-                    "startLine": 1513,
+                    "startLine": 1521,
                     "startColumn": 4,
-                    "startOffset": 115199,
-                    "endLine": 1514,
+                    "startOffset": 115610,
+                    "endLine": 1522,
                     "endColumn": 12,
-                    "endOffset": 115310
+                    "endOffset": 115721
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -8839,11 +8860,11 @@
             },
             {
                 "to": {
-                    "startLine": 1515,
+                    "startLine": 1523,
                     "startColumn": 4,
-                    "startOffset": 115315,
+                    "startOffset": 115726,
                     "endColumn": 93,
-                    "endOffset": 115404
+                    "endOffset": 115815
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -8858,11 +8879,11 @@
             },
             {
                 "to": {
-                    "startLine": 1516,
+                    "startLine": 1524,
                     "startColumn": 4,
-                    "startOffset": 115409,
+                    "startOffset": 115820,
                     "endColumn": 113,
-                    "endOffset": 115518
+                    "endOffset": 115929
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -8877,11 +8898,11 @@
             },
             {
                 "to": {
-                    "startLine": 1517,
+                    "startLine": 1525,
                     "startColumn": 4,
-                    "startOffset": 115523,
+                    "startOffset": 115934,
                     "endColumn": 117,
-                    "endOffset": 115636
+                    "endOffset": 116047
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -8896,12 +8917,12 @@
             },
             {
                 "to": {
-                    "startLine": 1518,
+                    "startLine": 1526,
                     "startColumn": 4,
-                    "startOffset": 115641,
-                    "endLine": 1519,
+                    "startOffset": 116052,
+                    "endLine": 1527,
                     "endColumn": 12,
-                    "endOffset": 115738
+                    "endOffset": 116149
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -8917,12 +8938,12 @@
             },
             {
                 "to": {
-                    "startLine": 1520,
+                    "startLine": 1528,
                     "startColumn": 4,
-                    "startOffset": 115743,
-                    "endLine": 1521,
+                    "startOffset": 116154,
+                    "endLine": 1529,
                     "endColumn": 12,
-                    "endOffset": 115858
+                    "endOffset": 116269
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -8938,12 +8959,12 @@
             },
             {
                 "to": {
-                    "startLine": 1522,
+                    "startLine": 1530,
                     "startColumn": 4,
-                    "startOffset": 115863,
-                    "endLine": 1523,
+                    "startOffset": 116274,
+                    "endLine": 1531,
                     "endColumn": 12,
-                    "endOffset": 115980
+                    "endOffset": 116391
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -8959,11 +8980,11 @@
             },
             {
                 "to": {
-                    "startLine": 1524,
+                    "startLine": 1532,
                     "startColumn": 4,
-                    "startOffset": 115985,
+                    "startOffset": 116396,
                     "endColumn": 81,
-                    "endOffset": 116062
+                    "endOffset": 116473
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -8978,11 +8999,11 @@
             },
             {
                 "to": {
-                    "startLine": 1525,
+                    "startLine": 1533,
                     "startColumn": 4,
-                    "startOffset": 116067,
+                    "startOffset": 116478,
                     "endColumn": 103,
-                    "endOffset": 116166
+                    "endOffset": 116577
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -8997,11 +9018,11 @@
             },
             {
                 "to": {
-                    "startLine": 1526,
+                    "startLine": 1534,
                     "startColumn": 4,
-                    "startOffset": 116171,
+                    "startOffset": 116582,
                     "endColumn": 119,
-                    "endOffset": 116286
+                    "endOffset": 116697
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -9016,11 +9037,11 @@
             },
             {
                 "to": {
-                    "startLine": 1527,
+                    "startLine": 1535,
                     "startColumn": 4,
-                    "startOffset": 116291,
+                    "startOffset": 116702,
                     "endColumn": 125,
-                    "endOffset": 116412
+                    "endOffset": 116823
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -9035,11 +9056,11 @@
             },
             {
                 "to": {
-                    "startLine": 1528,
+                    "startLine": 1536,
                     "startColumn": 4,
-                    "startOffset": 116417,
+                    "startOffset": 116828,
                     "endColumn": 97,
-                    "endOffset": 116510
+                    "endOffset": 116921
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -9054,11 +9075,11 @@
             },
             {
                 "to": {
-                    "startLine": 1529,
+                    "startLine": 1537,
                     "startColumn": 4,
-                    "startOffset": 116515,
+                    "startOffset": 116926,
                     "endColumn": 93,
-                    "endOffset": 116604
+                    "endOffset": 117015
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -9073,11 +9094,11 @@
             },
             {
                 "to": {
-                    "startLine": 1530,
+                    "startLine": 1538,
                     "startColumn": 4,
-                    "startOffset": 116609,
+                    "startOffset": 117020,
                     "endColumn": 87,
-                    "endOffset": 116692
+                    "endOffset": 117103
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -9092,11 +9113,11 @@
             },
             {
                 "to": {
-                    "startLine": 1531,
+                    "startLine": 1539,
                     "startColumn": 4,
-                    "startOffset": 116697,
+                    "startOffset": 117108,
                     "endColumn": 111,
-                    "endOffset": 116804
+                    "endOffset": 117215
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -9111,11 +9132,11 @@
             },
             {
                 "to": {
-                    "startLine": 1532,
+                    "startLine": 1540,
                     "startColumn": 4,
-                    "startOffset": 116809,
+                    "startOffset": 117220,
                     "endColumn": 115,
-                    "endOffset": 116920
+                    "endOffset": 117331
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -9130,11 +9151,11 @@
             },
             {
                 "to": {
-                    "startLine": 1533,
+                    "startLine": 1541,
                     "startColumn": 4,
-                    "startOffset": 116925,
+                    "startOffset": 117336,
                     "endColumn": 121,
-                    "endOffset": 117042
+                    "endOffset": 117453
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -9149,11 +9170,11 @@
             },
             {
                 "to": {
-                    "startLine": 1534,
+                    "startLine": 1542,
                     "startColumn": 4,
-                    "startOffset": 117047,
+                    "startOffset": 117458,
                     "endColumn": 111,
-                    "endOffset": 117154
+                    "endOffset": 117565
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -9168,12 +9189,12 @@
             },
             {
                 "to": {
-                    "startLine": 1535,
+                    "startLine": 1543,
                     "startColumn": 4,
-                    "startOffset": 117159,
-                    "endLine": 1537,
+                    "startOffset": 117570,
+                    "endLine": 1545,
                     "endColumn": 12,
-                    "endOffset": 117329
+                    "endOffset": 117740
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -9189,11 +9210,11 @@
             },
             {
                 "to": {
-                    "startLine": 1538,
+                    "startLine": 1546,
                     "startColumn": 4,
-                    "startOffset": 117334,
+                    "startOffset": 117745,
                     "endColumn": 115,
-                    "endOffset": 117445
+                    "endOffset": 117856
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -9208,11 +9229,11 @@
             },
             {
                 "to": {
-                    "startLine": 1539,
+                    "startLine": 1547,
                     "startColumn": 4,
-                    "startOffset": 117450,
+                    "startOffset": 117861,
                     "endColumn": 85,
-                    "endOffset": 117531
+                    "endOffset": 117942
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -9227,12 +9248,12 @@
             },
             {
                 "to": {
-                    "startLine": 1540,
+                    "startLine": 1548,
                     "startColumn": 4,
-                    "startOffset": 117536,
-                    "endLine": 1541,
+                    "startOffset": 117947,
+                    "endLine": 1549,
                     "endColumn": 12,
-                    "endOffset": 117643
+                    "endOffset": 118054
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -9248,12 +9269,12 @@
             },
             {
                 "to": {
-                    "startLine": 1542,
+                    "startLine": 1550,
                     "startColumn": 4,
-                    "startOffset": 117648,
-                    "endLine": 1543,
+                    "startOffset": 118059,
+                    "endLine": 1551,
                     "endColumn": 12,
-                    "endOffset": 117767
+                    "endOffset": 118178
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -9269,11 +9290,11 @@
             },
             {
                 "to": {
-                    "startLine": 1544,
+                    "startLine": 1552,
                     "startColumn": 4,
-                    "startOffset": 117772,
+                    "startOffset": 118183,
                     "endColumn": 66,
-                    "endOffset": 117834
+                    "endOffset": 118245
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -9288,12 +9309,12 @@
             },
             {
                 "to": {
-                    "startLine": 1545,
+                    "startLine": 1553,
                     "startColumn": 4,
-                    "startOffset": 117839,
-                    "endLine": 1546,
+                    "startOffset": 118250,
+                    "endLine": 1554,
                     "endColumn": 12,
-                    "endOffset": 117960
+                    "endOffset": 118371
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -9309,11 +9330,11 @@
             },
             {
                 "to": {
-                    "startLine": 1547,
+                    "startLine": 1555,
                     "startColumn": 4,
-                    "startOffset": 117965,
+                    "startOffset": 118376,
                     "endColumn": 67,
-                    "endOffset": 118028
+                    "endOffset": 118439
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -9328,12 +9349,12 @@
             },
             {
                 "to": {
-                    "startLine": 1548,
+                    "startLine": 1556,
                     "startColumn": 4,
-                    "startOffset": 118033,
-                    "endLine": 1549,
+                    "startOffset": 118444,
+                    "endLine": 1557,
                     "endColumn": 12,
-                    "endOffset": 118156
+                    "endOffset": 118567
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -9349,12 +9370,12 @@
             },
             {
                 "to": {
-                    "startLine": 1550,
+                    "startLine": 1558,
                     "startColumn": 4,
-                    "startOffset": 118161,
-                    "endLine": 1551,
+                    "startOffset": 118572,
+                    "endLine": 1559,
                     "endColumn": 12,
-                    "endOffset": 118300
+                    "endOffset": 118711
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -9370,12 +9391,12 @@
             },
             {
                 "to": {
-                    "startLine": 1552,
+                    "startLine": 1560,
                     "startColumn": 4,
-                    "startOffset": 118305,
-                    "endLine": 1553,
+                    "startOffset": 118716,
+                    "endLine": 1561,
                     "endColumn": 12,
-                    "endOffset": 118428
+                    "endOffset": 118839
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -9391,11 +9412,11 @@
             },
             {
                 "to": {
-                    "startLine": 1554,
+                    "startLine": 1562,
                     "startColumn": 4,
-                    "startOffset": 118433,
+                    "startOffset": 118844,
                     "endColumn": 68,
-                    "endOffset": 118497
+                    "endOffset": 118908
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -9410,11 +9431,11 @@
             },
             {
                 "to": {
-                    "startLine": 1555,
+                    "startLine": 1563,
                     "startColumn": 4,
-                    "startOffset": 118502,
+                    "startOffset": 118913,
                     "endColumn": 94,
-                    "endOffset": 118592
+                    "endOffset": 119003
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -9429,11 +9450,11 @@
             },
             {
                 "to": {
-                    "startLine": 1556,
+                    "startLine": 1564,
                     "startColumn": 4,
-                    "startOffset": 118597,
+                    "startOffset": 119008,
                     "endColumn": 114,
-                    "endOffset": 118707
+                    "endOffset": 119118
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -9448,11 +9469,11 @@
             },
             {
                 "to": {
-                    "startLine": 1557,
+                    "startLine": 1565,
                     "startColumn": 4,
-                    "startOffset": 118712,
+                    "startOffset": 119123,
                     "endColumn": 112,
-                    "endOffset": 118820
+                    "endOffset": 119231
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -9467,11 +9488,11 @@
             },
             {
                 "to": {
-                    "startLine": 1558,
+                    "startLine": 1566,
                     "startColumn": 4,
-                    "startOffset": 118825,
+                    "startOffset": 119236,
                     "endColumn": 98,
-                    "endOffset": 118919
+                    "endOffset": 119330
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -9486,11 +9507,11 @@
             },
             {
                 "to": {
-                    "startLine": 1559,
+                    "startLine": 1567,
                     "startColumn": 4,
-                    "startOffset": 118924,
+                    "startOffset": 119335,
                     "endColumn": 108,
-                    "endOffset": 119028
+                    "endOffset": 119439
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -9505,11 +9526,11 @@
             },
             {
                 "to": {
-                    "startLine": 1560,
+                    "startLine": 1568,
                     "startColumn": 4,
-                    "startOffset": 119033,
+                    "startOffset": 119444,
                     "endColumn": 110,
-                    "endOffset": 119139
+                    "endOffset": 119550
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -9524,11 +9545,11 @@
             },
             {
                 "to": {
-                    "startLine": 1561,
+                    "startLine": 1569,
                     "startColumn": 4,
-                    "startOffset": 119144,
+                    "startOffset": 119555,
                     "endColumn": 110,
-                    "endOffset": 119250
+                    "endOffset": 119661
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -9543,11 +9564,11 @@
             },
             {
                 "to": {
-                    "startLine": 1562,
+                    "startLine": 1570,
                     "startColumn": 4,
-                    "startOffset": 119255,
+                    "startOffset": 119666,
                     "endColumn": 100,
-                    "endOffset": 119351
+                    "endOffset": 119762
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -9562,11 +9583,11 @@
             },
             {
                 "to": {
-                    "startLine": 1563,
+                    "startLine": 1571,
                     "startColumn": 4,
-                    "startOffset": 119356,
+                    "startOffset": 119767,
                     "endColumn": 104,
-                    "endOffset": 119456
+                    "endOffset": 119867
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -9581,12 +9602,12 @@
             },
             {
                 "to": {
-                    "startLine": 1564,
+                    "startLine": 1572,
                     "startColumn": 4,
-                    "startOffset": 119461,
-                    "endLine": 1565,
+                    "startOffset": 119872,
+                    "endLine": 1573,
                     "endColumn": 12,
-                    "endOffset": 119568
+                    "endOffset": 119979
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -9602,12 +9623,12 @@
             },
             {
                 "to": {
-                    "startLine": 1566,
+                    "startLine": 1574,
                     "startColumn": 4,
-                    "startOffset": 119573,
-                    "endLine": 1567,
+                    "startOffset": 119984,
+                    "endLine": 1575,
                     "endColumn": 12,
-                    "endOffset": 119698
+                    "endOffset": 120109
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -9623,11 +9644,11 @@
             },
             {
                 "to": {
-                    "startLine": 1568,
+                    "startLine": 1576,
                     "startColumn": 4,
-                    "startOffset": 119703,
+                    "startOffset": 120114,
                     "endColumn": 90,
-                    "endOffset": 119789
+                    "endOffset": 120200
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -9642,11 +9663,11 @@
             },
             {
                 "to": {
-                    "startLine": 1569,
+                    "startLine": 1577,
                     "startColumn": 4,
-                    "startOffset": 119794,
+                    "startOffset": 120205,
                     "endColumn": 122,
-                    "endOffset": 119912
+                    "endOffset": 120323
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -9661,12 +9682,12 @@
             },
             {
                 "to": {
-                    "startLine": 1570,
+                    "startLine": 1578,
                     "startColumn": 4,
-                    "startOffset": 119917,
-                    "endLine": 1571,
+                    "startOffset": 120328,
+                    "endLine": 1579,
                     "endColumn": 12,
-                    "endOffset": 120024
+                    "endOffset": 120435
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -9682,11 +9703,11 @@
             },
             {
                 "to": {
-                    "startLine": 1572,
+                    "startLine": 1580,
                     "startColumn": 4,
-                    "startOffset": 120029,
+                    "startOffset": 120440,
                     "endColumn": 85,
-                    "endOffset": 120110
+                    "endOffset": 120521
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -9701,11 +9722,11 @@
             },
             {
                 "to": {
-                    "startLine": 1573,
+                    "startLine": 1581,
                     "startColumn": 4,
-                    "startOffset": 120115,
+                    "startOffset": 120526,
                     "endColumn": 103,
-                    "endOffset": 120214
+                    "endOffset": 120625
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -9720,12 +9741,12 @@
             },
             {
                 "to": {
-                    "startLine": 1574,
+                    "startLine": 1582,
                     "startColumn": 4,
-                    "startOffset": 120219,
-                    "endLine": 1575,
+                    "startOffset": 120630,
+                    "endLine": 1583,
                     "endColumn": 12,
-                    "endOffset": 120322
+                    "endOffset": 120733
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -9741,12 +9762,12 @@
             },
             {
                 "to": {
-                    "startLine": 1576,
+                    "startLine": 1584,
                     "startColumn": 4,
-                    "startOffset": 120327,
-                    "endLine": 1577,
+                    "startOffset": 120738,
+                    "endLine": 1585,
                     "endColumn": 12,
-                    "endOffset": 120422
+                    "endOffset": 120833
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -9762,12 +9783,12 @@
             },
             {
                 "to": {
-                    "startLine": 1578,
+                    "startLine": 1586,
                     "startColumn": 4,
-                    "startOffset": 120427,
-                    "endLine": 1579,
+                    "startOffset": 120838,
+                    "endLine": 1587,
                     "endColumn": 12,
-                    "endOffset": 120540
+                    "endOffset": 120951
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -9783,12 +9804,12 @@
             },
             {
                 "to": {
-                    "startLine": 1580,
+                    "startLine": 1588,
                     "startColumn": 4,
-                    "startOffset": 120545,
-                    "endLine": 1581,
+                    "startOffset": 120956,
+                    "endLine": 1589,
                     "endColumn": 12,
-                    "endOffset": 120644
+                    "endOffset": 121055
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -9804,12 +9825,12 @@
             },
             {
                 "to": {
-                    "startLine": 1582,
+                    "startLine": 1590,
                     "startColumn": 4,
-                    "startOffset": 120649,
-                    "endLine": 1583,
+                    "startOffset": 121060,
+                    "endLine": 1591,
                     "endColumn": 12,
-                    "endOffset": 120748
+                    "endOffset": 121159
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -9825,12 +9846,12 @@
             },
             {
                 "to": {
-                    "startLine": 1584,
+                    "startLine": 1592,
                     "startColumn": 4,
-                    "startOffset": 120753,
-                    "endLine": 1585,
+                    "startOffset": 121164,
+                    "endLine": 1593,
                     "endColumn": 12,
-                    "endOffset": 120874
+                    "endOffset": 121285
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -9846,11 +9867,11 @@
             },
             {
                 "to": {
-                    "startLine": 1586,
+                    "startLine": 1594,
                     "startColumn": 4,
-                    "startOffset": 120879,
+                    "startOffset": 121290,
                     "endColumn": 87,
-                    "endOffset": 120962
+                    "endOffset": 121373
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -9865,11 +9886,11 @@
             },
             {
                 "to": {
-                    "startLine": 1587,
+                    "startLine": 1595,
                     "startColumn": 4,
-                    "startOffset": 120967,
+                    "startOffset": 121378,
                     "endColumn": 89,
-                    "endOffset": 121052
+                    "endOffset": 121463
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -9884,11 +9905,11 @@
             },
             {
                 "to": {
-                    "startLine": 1588,
+                    "startLine": 1596,
                     "startColumn": 4,
-                    "startOffset": 121057,
+                    "startOffset": 121468,
                     "endColumn": 109,
-                    "endOffset": 121162
+                    "endOffset": 121573
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -9903,11 +9924,11 @@
             },
             {
                 "to": {
-                    "startLine": 1589,
+                    "startLine": 1597,
                     "startColumn": 4,
-                    "startOffset": 121167,
+                    "startOffset": 121578,
                     "endColumn": 83,
-                    "endOffset": 121246
+                    "endOffset": 121657
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -9922,11 +9943,11 @@
             },
             {
                 "to": {
-                    "startLine": 1590,
+                    "startLine": 1598,
                     "startColumn": 4,
-                    "startOffset": 121251,
+                    "startOffset": 121662,
                     "endColumn": 53,
-                    "endOffset": 121300
+                    "endOffset": 121711
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -9941,11 +9962,11 @@
             },
             {
                 "to": {
-                    "startLine": 1591,
+                    "startLine": 1599,
                     "startColumn": 4,
-                    "startOffset": 121305,
+                    "startOffset": 121716,
                     "endColumn": 63,
-                    "endOffset": 121364
+                    "endOffset": 121775
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -9960,11 +9981,11 @@
             },
             {
                 "to": {
-                    "startLine": 1592,
+                    "startLine": 1600,
                     "startColumn": 4,
-                    "startOffset": 121369,
+                    "startOffset": 121780,
                     "endColumn": 105,
-                    "endOffset": 121470
+                    "endOffset": 121881
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -9979,11 +10000,11 @@
             },
             {
                 "to": {
-                    "startLine": 1593,
+                    "startLine": 1601,
                     "startColumn": 4,
-                    "startOffset": 121475,
+                    "startOffset": 121886,
                     "endColumn": 109,
-                    "endOffset": 121580
+                    "endOffset": 121991
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -9998,11 +10019,11 @@
             },
             {
                 "to": {
-                    "startLine": 1594,
+                    "startLine": 1602,
                     "startColumn": 4,
-                    "startOffset": 121585,
+                    "startOffset": 121996,
                     "endColumn": 83,
-                    "endOffset": 121664
+                    "endOffset": 122075
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -10017,11 +10038,11 @@
             },
             {
                 "to": {
-                    "startLine": 1595,
+                    "startLine": 1603,
                     "startColumn": 4,
-                    "startOffset": 121669,
+                    "startOffset": 122080,
                     "endColumn": 119,
-                    "endOffset": 121784
+                    "endOffset": 122195
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml",
@@ -10036,12 +10057,12 @@
             },
             {
                 "to": {
-                    "startLine": 1596,
+                    "startLine": 1604,
                     "startColumn": 4,
-                    "startOffset": 121789,
-                    "endLine": 1605,
+                    "startOffset": 122200,
+                    "endLine": 1613,
                     "endColumn": 10,
-                    "endOffset": 122225
+                    "endOffset": 122636
                 },
                 "from": {
                     "file": "D:\\PROYECTOS\\reactNative\\ceUber\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.55.4\\res\\values\\values.xml",
