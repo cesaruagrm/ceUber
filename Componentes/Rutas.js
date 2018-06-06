@@ -3,6 +3,7 @@ import { StackNavigator } from 'react-navigation';
 import Login from './Login';
 import Opciones from './Opciones';
 import VehiculosDisponibles from './VehiculosDisponibles';
+import Vehiculo from './Vehiculo';
 
 const Navigation = StackNavigator({
     Login:{
@@ -21,6 +22,12 @@ const Navigation = StackNavigator({
         screen:VehiculosDisponibles,
         navigationOptions:{
            title:'listas de vehiculos',
+        }
+    },
+    Vehiculo:{
+        screen:Vehiculo,
+        navigationOptions:{
+            title:'seleccion de vehiculo',
         }
     },
 

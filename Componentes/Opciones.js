@@ -66,12 +66,9 @@ const styles = StyleSheet.create({
         textAlign: 'center'
     },
     Cabereza: {
-        fontSize: 16,
         height: 60,
         alignItems:'center',
         alignContent:'center',
-        textAlign:'center',
-        fontWeight: '500',
         backgroundColor:'black',
         marginBottom:30,
     },
